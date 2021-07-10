@@ -16,5 +16,5 @@ Spotify API: https://developer.spotify.com/documentation/web-api/
 ----------------------------------------------------------------------------------------------
 
 <h2>Contact me:</h2>
-Memo Ozdincer
+
 E-Mail: memoozdincer@gmail.com
