@@ -1,6 +1,6 @@
 # ML-song-popularity-prediction
 
-Get access to the database:
+<h2>Get access to the database:</h2>
 
 Kaggle API: "kaggle datasets download -d yamaerenay/spotify-dataset-19212020-160k-tracks"
 
@@ -9,7 +9,7 @@ Download Link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-t
 Page Link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 ----------------------------------------------------------------------------------------------
-Spotify API:
+<h2>Spotify API:</h2>
 https://developer.spotify.com/documentation/web-api/
 
 Contact me:
