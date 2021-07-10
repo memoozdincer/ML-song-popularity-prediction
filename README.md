@@ -2,11 +2,7 @@
 
 <h2>Get access to the database:</h2>
 
-Kaggle API: "kaggle datasets download -d yamaerenay/spotify-dataset-19212020-160k-tracks"
-
-Download Link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks/download
-
-Page Link: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+Page Link (API and Download included): https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
 
 ----------------------------------------------------------------------------------------------
 <h2>Core API:</h2>
